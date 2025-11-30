@@ -14,6 +14,8 @@ Fast theme deployment and write pure HTML and CSS
 
 [Download .zip from source](https://www.fruitty.co.uk/fruitty.zip?version=803)
 
+## Preview Screenshot
+
 ![Preview](https://web.archive.org/web/20251130165737/http://web.archive.org/screenshot/https://www.fruitty.co.uk/)
 
 ## Tooty Fruitty
