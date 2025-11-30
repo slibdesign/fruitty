@@ -24,4 +24,4 @@ Accelerated page load guide to using Fruitty WordPress theme
 
 Page load time: 0.1 seconds
 
-[How to guide: How to build a high speed WordPress website](https://www.tootyfruitty.co.uk/)
+[How to guide: How to make Fruitty load faster](https://www.tootyfruitty.co.uk/)
