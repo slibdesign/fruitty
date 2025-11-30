@@ -10,7 +10,9 @@ Bootstrap Grid, Pico minimalist starter kit and Lineicons together in one WordPr
 
 Fast theme deployment and write pure HTML and CSS
 
-[Demo](https://www.fruitty.co.uk/) [Download from source](https://www.fruitty.co.uk/fruitty.zip?version=803)
+[Demo Fruitty WordPress Theme](https://www.fruitty.co.uk/) 
+
+[Download .zip from source](https://www.fruitty.co.uk/fruitty.zip?version=803)
 
 ## Tooty Fruitty
 
